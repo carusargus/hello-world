@@ -3,4 +3,4 @@ Plain old repository experimentation
 
 Hello Humans,
 
-I am a fan of web development!!!
+This is strictly for humans who are non telepathic@!
